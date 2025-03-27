@@ -1,4 +1,4 @@
-# 🎬 RendorGal – 3D Artist and Asset Creator for Daz Studio
+# 🎬 Rendorgal – 3D Artist and Asset Creator for Daz Studio
 
 **Daz Studio Assets**
 [![RenderHub](https://img.shields.io/badge/RenderHub-Shop_Assets-FF6600?logo=sketchfab)](https://www.renderhub.com/rendorgal)
